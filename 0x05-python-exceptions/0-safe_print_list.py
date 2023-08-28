@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def safe_print_list(x=0, my_list=[]):
     """Print x elememts of a list.
 
